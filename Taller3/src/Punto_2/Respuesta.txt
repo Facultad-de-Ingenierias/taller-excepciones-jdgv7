@@ -1,0 +1,2 @@
+Debe lanzar una excepcion ya que sin el try el programa no se podria ejecutar, esta excepcion seria comprobada porque
+en esta se podria decir cual fue el rango el cual se excedio y la cantidad de voletas que se pueden llegar a compar
